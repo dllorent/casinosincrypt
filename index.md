@@ -77,11 +77,11 @@ Proper security measures and licenses are required for a site to be considered t
 > Q&A Crypto Casinos
 
 ```
-What is bitcoin?
+- What is bitcoin?
 
 Bitcoin is a decentralized digital currency.
 
-When and who invented bitcoin?
+- When and who invented bitcoin?
 
 Bitcoin was invented in 2008 by an unknown person or group of people using the name Satoshi Nakamoto.
 
@@ -104,6 +104,3 @@ Transactions are verified by network nodes through cryptography and recorded in 
 
 ### Etherium
 
-## Q&A Crypto Casinos
-
-I have compiled a list of the main [Q&A about Crypto](qandacryptocasinos.md)
