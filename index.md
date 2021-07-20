@@ -75,3 +75,7 @@ Proper security measures and licenses are required for a site to be considered t
 ### Bitcoin 
 
 ### Etherium
+
+## Q&A Crypto Casinos
+
+I have compiled a list of the main [Q&A about Crypto](qandacryptocasinos.md)
