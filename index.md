@@ -70,7 +70,7 @@ Proper security measures and licenses are required for a site to be considered t
 
 ## What Crypto Currencies are Accepted?
 
-### Bitcoin 
+### Bitcoin ₿ 
 
 > Q&A Bitcoin
 
