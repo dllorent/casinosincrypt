@@ -76,8 +76,7 @@ Proper security measures and licenses are required for a site to be considered t
 
 > Q&A Crypto Casinos
 
-## Bitcoin
-
+```
 ### What is bitcoin?
 
 Bitcoin is a decentralized digital currency.
@@ -101,6 +100,7 @@ No, it does work without the need of intermediaries?
 ### How are transactions verified?
 
 Transactions are verified by network nodes through cryptography and recorded in a public distributed ledger called a blockchain.
+```
 
 ### Etherium
 
