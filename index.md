@@ -1,5 +1,3 @@
-# Crypto Casinos in Australia
-
 Hey there, I am Jaylee from the heart of Australia. For years I have been passionately playing in different online casinos and recently I decided to make a living out of casino affiliations. Here is what I do, I collect all the best offers and bonuses across Crypto Casinos online and offer them to the community. 
 
 Why crypto casinos?, well mainly two reasons, first here in Australia in very hard to play in non-crypto casinos, and second, in general, the offers and bonuses in crypto casinos are a lot more generous. I regularly contact casino operators and ask for special offers that hopefully, you will find interesting. I will also post reviews of new casinos and other interesting information around the crypto casinos industry focusing on the licensing and legal aspects. All the offers, bonuses, and reviews will be only for the most trusted crypto gambling sites operators so I will recommend a few of them, and since I take very seriously my job I took the review process very carefully to provide the best value for the community.
