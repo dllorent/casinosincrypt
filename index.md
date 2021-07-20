@@ -74,7 +74,7 @@ Proper security measures and licenses are required for a site to be considered t
 
 ### Bitcoin 
 
-> Q&A Crypto Casinos
+> Q&A Bitcoin
 
 ```
 - What is bitcoin?
