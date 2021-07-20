@@ -76,7 +76,7 @@ Proper security measures and licenses are required for a site to be considered t
     $a=10;
     $b=10;
     $c=$a+$b;
-    echo("The addition of a and b is ". $c);
+    print("The addition of a and b is ". $c);
 ?>
 
 <hr>
